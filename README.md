@@ -21,7 +21,7 @@
 
 Основной канал - про нейросети: разбираю инструменты, показываю, как ими пользуюсь, и что из этого выходит.
 
-🇷🇺 🇺🇸 Native Russian speaker. English so so.
+🇷🇺 Native Russian speaker 🇺🇸 English so so.
 
 [![Нейросети](https://img.shields.io/badge/Нейросети-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/buyonhigh)
 [![Криптовалюта](https://img.shields.io/badge/Криптовалюта-2EA44F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thevse)
