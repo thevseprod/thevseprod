@@ -1,8 +1,4 @@
-<table align="right"><tr><td align="center">
-<img src="./assets/pets.jpg" width="230" alt="Пёс Анатолий и кот Геннадий">
-<br>
-<sub>пёс Анатолий и кот Геннадий</sub>
-</td></tr></table>
+<img src="./assets/pets.webp" width="300" align="right" alt="Мои дети: кот Геннадий и пёс Анатолий">
 
 # 😘 Yo, I'm Dmitry Klimchenko aka KTMudak
 
