@@ -1,6 +1,6 @@
 # 😘 Yo, I'm Dmitry Klimchenko aka KTMudak
 
-<img src="./assets/pets.webp" width="300" align="right" alt="Мои дети: кот Геннадий и пёс Анатолий">
+<img src="./assets/pets-2.webp" width="300" align="right" alt="Мои дети: кот Геннадий и пёс Анатолий">
 
 Веду каналы про нейросети и криптовалюту. Люблю общаться с аудиторией.
 
