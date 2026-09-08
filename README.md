@@ -33,8 +33,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thevseproduction)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thevse)
 
-🇷🇺 Native Russian speaker 🇺🇸 English so so.
-
 ## 🕶️ Вне матрицы
 
 Личной жизни у меня нет: 24/7 я в нейросетях и криптовалюте. Если бы появлялось время, играл бы в компьютерные игры и смотрел фильмы.
+
+🇷🇺 Native Russian speaker 🇺🇸 English so so.
