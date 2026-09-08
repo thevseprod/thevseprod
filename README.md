@@ -34,3 +34,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thevse)
 
 🇷🇺 Native Russian speaker 🇺🇸 English so so.
+
+## 🎮 Вне терминала
+
+Личной жизни у меня нет: 24/7 я в нейросетях и криптовалюте. Если бы появлялось время, играл бы в компьютерные игры и смотрел фильмы.
