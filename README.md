@@ -25,6 +25,8 @@
 
 - В канале про нейросети: разбираю инструменты и показываю, как ими пользоваться
 - В канале про крипту: автоматизирую процессы и показываю, где можно заработать на любой фазе рынка
+- На Ютюбе: провожу онлайн-воркшопы
+- В Инстаграме: просто живу
 
 [![Нейросети](https://img.shields.io/badge/Нейросети-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/buyonhigh)
 [![Криптовалюта](https://img.shields.io/badge/Криптовалюта-2EA44F?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thevse)
